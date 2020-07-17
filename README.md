@@ -32,9 +32,9 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Maharaja 
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
 <!--
-**syedareehaquasar/syedareehaquasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**syedareehaquasar/syedareehaquasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
-Here are some ideas to get you started:
+### Know more about me:
 
 - 🔭 I’m currently exploring AI 🚀.
 - 🌱 I’m currently learning ML and learning about different algorithms 🛠.
