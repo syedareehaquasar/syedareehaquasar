@@ -31,8 +31,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Maharaja 
 <br />
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
-<!--
-**syedareehaquasar/syedareehaquasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+
 
 ### Know more about me:
 
