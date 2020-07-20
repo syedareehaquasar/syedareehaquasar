@@ -46,4 +46,4 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Maharaja 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/topics/bootstrap/bootsrap.png"></code>
 
-![Github stats]()
+![Syeda Reeha's GitHub statistic](https://github-readme-stats.vercel.app/api?username=syedareehaquasar&show_icons=true)
