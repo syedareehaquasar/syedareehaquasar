@@ -1,9 +1,9 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
-<a href="https://twitter.com/Quasar_Reeha">
+<a href="https://twitter.com/QuasarReeha">
   <img align="left" alt="Reeha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/syedareehaquasar">
+<a href="https://www.linkedin.com/in/syeda-reeha-quasar-625a16118/">
   <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/syedareehaquasar">
