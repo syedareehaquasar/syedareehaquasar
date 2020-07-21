@@ -18,9 +18,9 @@
 <a href="https://www.facebook.com/syeda_reeha_quasar/">
   <img align="left" alt="Reeha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.hackerrank.com/syedareehaquasar/">
+<!-- <a href="https://www.hackerrank.com/syedareehaquasar/">
   <img align="left" alt="Reeha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+</a>-->
 
 <br />
 
