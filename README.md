@@ -47,3 +47,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Maharaja 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=syedareehaquasar&show_icons=true" /></p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&theme=radical&hide_langs_below=1" /> -->
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
+<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
