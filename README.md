@@ -55,6 +55,15 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Maharaja 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&theme=radical&hide_langs_below=1" /> -->
 
+<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  </p>
+
+<p align="center"><img src="https://github.com/syedareehaquasar/syedareehaquasar/blob/master/gifs/EfucOGNUMAAFzGV.jpeg" height="50%" width = "50%"></p>
+
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
-<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
+<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
+
+<img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px">
+<img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
+<img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
+-->
