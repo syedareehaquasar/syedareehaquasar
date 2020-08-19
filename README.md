@@ -5,7 +5,11 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syedareehaquasar)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedareehaquasar)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=syedareehaquasar.visitor-badge)](https://github.com/syedareehaquasar)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=syedareehaquasar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/syedareehaquasar/syedareehaquasar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+ <!-- <a href="https://github.com/syedareehaquasar/syedareehaquasar/actions">
+   <img alt="github-activity" src="https://github.com/syedareehaquasar/syedareehaquasar/workflows/update-gh-activity/badge.svg">
+  </a> -->
 
 <a href="https://twitter.com/QuasarReeha">
   <img align="left" alt="Reeha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -59,6 +63,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Maharaja 
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
+
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
 
 <img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px">
