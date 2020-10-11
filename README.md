@@ -71,7 +71,7 @@ I'm a second student pursuing Bachelors's in Computer Science 🎓 from Maharaja
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=syedareehaquasar&hide=stars&show_icons=true&line_height=48">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&count_private=true>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&count_private=true">
 
 </p>
 
