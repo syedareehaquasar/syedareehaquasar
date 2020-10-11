@@ -66,7 +66,14 @@ I'm a second student pursuing Bachelors's in Computer Science 🎓 from Maharaja
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=syedareehaquasar&show_icons=true" /></p>
+
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=syedareehaquasar&hide=stars&show_icons=true&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&count_private=true">
+
+</p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&theme=radical&hide_langs_below=1" /> -->
 
